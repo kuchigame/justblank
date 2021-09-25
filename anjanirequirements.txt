@@ -1,0 +1,14 @@
+aiohttp
+aiorun
+aiopath
+colorlog
+dnspython
+meval
+pymongo
+pyrogram
+python-dotenv
+PyYAML
+tgcrypto
+toml
+scikit-learn==0.24.2
+uvloop
