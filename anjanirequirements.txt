@@ -12,3 +12,4 @@ tgcrypto
 toml
 scikit-learn
 uvloop
+spamwatch
